@@ -26,5 +26,6 @@ npm start
 
 
 
-t
-
+1x login 6 room rata, jngan salah pakai boss...
+by: Tedjo dari team DOBOL bot,
+Dapur Operasional Bots Of Legend
