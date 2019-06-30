@@ -15,7 +15,7 @@
 
 -How to run bot for the first time ?
 
-git clone https://github.com/Thedjo/dobolJS
+git clone https://github.com/Thedjo/bot
 
 cd alphat-third && npm install
 
